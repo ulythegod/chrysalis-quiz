@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chrysalis-quiz/static/css/main.afd972ad.css",
+    "main.js": "/chrysalis-quiz/static/js/main.ab145a91.js",
+    "static/media/win5.gif": "/chrysalis-quiz/static/media/win5.8a44b729ac1e64c7ce17.gif",
+    "static/media/background.png": "/chrysalis-quiz/static/media/background.b9cd59aed2a2bd7d95c3.png",
+    "index.html": "/chrysalis-quiz/index.html",
+    "main.afd972ad.css.map": "/chrysalis-quiz/static/css/main.afd972ad.css.map",
+    "main.ab145a91.js.map": "/chrysalis-quiz/static/js/main.ab145a91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afd972ad.css",
+    "static/js/main.ab145a91.js"
+  ]
+}
